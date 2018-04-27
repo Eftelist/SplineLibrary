@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e24a36b-3f21-445d-afca-b38e8b4eeae1" name="Default" comment="" />
+    <list default="true" id="2e24a36b-3f21-445d-afca-b38e8b4eeae1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Spline3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Spline3D.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/../SplineLibrary/out/" />
     <ignored path="$PROJECT_DIR$/../SplineLibrary/.gradle/" />
     <ignored path="$PROJECT_DIR$/../SplineLibrary/build/" />
@@ -17,13 +19,33 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/../SplineLibrary">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SplineLibrary" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../SplineLibrary/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -32,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Point.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#346#347#0" expanded="true" />
@@ -48,64 +70,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Spline3D.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Spline3D.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Spline3D.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-              <folding>
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Track.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Track.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="340">
+              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LocationUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Utils/LocationUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TrackLocation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/TrackLocation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-              <folding>
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#608#609#0" expanded="true" />
-                <element signature="e#635#636#0" expanded="true" />
-                <element signature="e#671#672#0" expanded="true" />
-                <element signature="e#705#706#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-                <element signature="e#773#774#0" expanded="true" />
-                <element signature="e#813#814#0" expanded="true" />
-                <element signature="e#845#846#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -124,6 +97,9 @@
     <findStrings>
       <find>/* 143 */</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../SplineLibrary" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -287,6 +263,11 @@
                 <option name="name" value="build" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../SplineLibrary" />
+                <option name="name" value="install" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../SplineLibrary" />
                 <option name="name" value="buildNeeded" />
@@ -303,9 +284,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/../SplineLibrary" value="6099399149223" />
+        <entry key="$PROJECT_DIR$/../SplineLibrary" value="6099400493715" />
         <entry key="$PROJECT_DIR$/../SplineLibrary/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/../SplineLibrary/build.gradle" value="3512542305" />
+        <entry key="$PROJECT_DIR$/../SplineLibrary/build.gradle" value="910167136" />
         <entry key="$PROJECT_DIR$/../SplineLibrary/gradle/wrapper/gradle-wrapper.properties" value="1741342742" />
         <entry key="$PROJECT_DIR$/../SplineLibrary/settings.gradle" value="3968434454" />
       </map>
@@ -425,12 +406,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Vector.java" />
-        <option value="$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Spline3D.java" />
         <option value="$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Point.java" />
-        <option value="$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/TrackLocation.java" />
         <option value="$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Track.java" />
+        <option value="$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/TrackLocation.java" />
         <option value="$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Utils/LocationUtil.java" />
         <option value="$PROJECT_DIR$/../SplineLibrary/build.gradle" />
+        <option value="$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Spline3D.java" />
       </list>
     </option>
   </component>
@@ -439,6 +420,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -452,6 +434,17 @@
             <path>
               <item name="SplineLibrary" type="b2602c69:ProjectViewProjectNode" />
               <item name="SplineLibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="SplineLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SplineLibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SplineLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SplineLibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SplineLibrary" type="b2602c69:ProjectViewProjectNode" />
@@ -482,15 +475,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SplineLibary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SplineLibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SplineLibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SplineLibary" type="462c0819:PsiDirectoryNode" />
               <item name="Objects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -570,20 +554,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5005208" side_tool="true" weight="0.32946146" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32946146" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19947916" />
-      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32946146" />
-      <window_info anchor="right" id="Gradle" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19947916" />
+      <window_info anchor="bottom" id="Build" sideWeight="0.49947917" weight="0.32946146" />
+      <window_info anchor="right" id="Gradle" visible="true" weight="0.3296875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Favorites" side_tool="true" />
@@ -600,38 +584,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Spline3D.java">
+    <entry file="file://$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Track.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-          <folding>
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/TrackLocation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
+        <state relative-caret-position="777">
           <caret line="51" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="e#333#334#0" expanded="true" />
@@ -656,27 +621,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Track.java">
+    <entry file="file://$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Utils/LocationUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Utils/LocationUtil.java">
+    <entry file="file://$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../SplineLibrary/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SplineLibrary/src/main/java/SplineLibary/Objects/Spline3D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

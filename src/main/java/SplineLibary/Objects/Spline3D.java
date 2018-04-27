@@ -1,27 +1,28 @@
 package SplineLibary.Objects;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 
 public class Spline3D {
 
-    private ArrayList<Point> points = new ArrayList<>();
+    private HashMap<Integer,Point> points = new HashMap<>();
+    private int index;
 
     public Spline3D(){}
 
     public void addPoint(Point point){
-        if(!this.points.contains(point)){
-            this.points.add(point);
-        }
+        this.points.put(index,point);
+        this.index += 1;
     }
 
     public void removePoint(int id, Point point){
-
+        this.points.remove(id);
     }
 
     public ArrayList<Point> generate() {
         ArrayList<Point> returnList = new ArrayList<>();
         toxi.geom.Spline3D spline3D = new toxi.geom.Spline3D();
-        points.forEach((p) -> {
+        points.forEach((i,p) -> {
             spline3D.add(p.toVec3D());
         });
         spline3D.getDecimatedVertices(0.05f).forEach(vec3D -> {
